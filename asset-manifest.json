@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/fcc-clock/static/css/main.1baeeb46.css",
+    "main.js": "/fcc-clock/static/js/main.0c487d2d.js",
+    "static/media/alarm-sound.mp3": "/fcc-clock/static/media/alarm-sound.e79e0abb7c74667ec9d7.mp3",
+    "index.html": "/fcc-clock/index.html",
+    "main.1baeeb46.css.map": "/fcc-clock/static/css/main.1baeeb46.css.map",
+    "main.0c487d2d.js.map": "/fcc-clock/static/js/main.0c487d2d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1baeeb46.css",
+    "static/js/main.0c487d2d.js"
+  ]
+}
